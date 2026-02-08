@@ -7,6 +7,7 @@ Overview
 AI Personal Knowledge Twin helps users upload PDFs and notes, store them intelligently, and ask questions to get context-aware answers instantly.
 
  Problem
+ 
 People forget most of what they learn because there is no intelligent long-term memory system.
 
  Solution
