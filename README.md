@@ -16,6 +16,7 @@ Features
 - Context-aware answers  
 - Long-term memory using FAISS  
 - Simple UI
+  
  Tech Stack
 - Python  
 - Streamlit  
