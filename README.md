@@ -2,26 +2,26 @@
 
 An AI-powered personal memory assistant that stores, understands, and recalls your documents — your **digital second brain**.
 
-**Overview
+**Overview**
 
 AI Personal Knowledge Twin helps users upload PDFs and notes, store them intelligently, and ask questions to get context-aware answers instantly.
 
- Problem
+ **Problem**
  
 People forget most of what they learn because there is no intelligent long-term memory system.
 
- Solution
+ **Solution**
  
 An AI assistant that stores personal knowledge using vector embeddings and provides semantic search-based question answering.
 
-Features
+**Features**
 - PDF upload  
 - Semantic search  
 - Context-aware answers  
 - Long-term memory using FAISS  
 - Simple UI
   
- Tech Stack
+ **Tech Stack**
 - Python  
 - Streamlit  
 - Sentence Transformers  
@@ -29,7 +29,7 @@ Features
 - LLM API  
 
 
- Run Project
+ **Run Project**
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
