@@ -2,7 +2,7 @@
 
 An AI-powered personal memory assistant that stores, understands, and recalls your documents — your **digital second brain**.
 
-*Overview
+**Overview
 
 AI Personal Knowledge Twin helps users upload PDFs and notes, store them intelligently, and ask questions to get context-aware answers instantly.
 
